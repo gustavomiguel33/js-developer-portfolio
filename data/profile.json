@@ -46,31 +46,21 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Accordion content com JS",
+      "url": "https://github.com/gustavomiguel33/faq-accordion",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Clone OptimusTech com HTML e CCS",
+      "url": "https://github.com/gustavomiguel33/clone_page_OptimusTech",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
+      "name": "Atendente de Telemarketing na AeC Centro de Contatos S/A",
+      "period": "2014 - até o momento",
       "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
-    },
-    {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-    },
-    {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
     }
   ]
 }
