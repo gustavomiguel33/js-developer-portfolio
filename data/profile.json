@@ -1,10 +1,10 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Gustavo Souza Miguel",
+  "photo": "https://avatars.githubusercontent.com/u/62348132?s=400&u=6ff37d50332c8a2424f56f84d376b3451326e3a9&v=4",
+  "job": "Atendente de Telemarketing na AeC Centro de Contatos S/A",
+  "location": "Campina Grande - PB",
+  "phone": "(83) 98793-7437",
+  "email": "gustavosouzamiguel@outlook.com",
   "skills": {
     "hardSkills": [
       {
@@ -42,9 +42,7 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Inglês (básico)"
   ],
   "portfolio": [
     {
